@@ -6,9 +6,9 @@ Installation is quite straightforward:
 
 ```bash
 cd /usr/src
-rm -fv csf.tgz
+rm -fv csf.gz
 wget https://raw.githubusercontent.com/afgshayan/CSF-Latest-24-AUG-2025/main/csf.gz
-tar -xzf csf.tgz
+tar -xzf csf.gz
 cd csf
 sh install.sh
 ```
